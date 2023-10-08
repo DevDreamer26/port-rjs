@@ -1,2 +1,2 @@
 # port-rjs
-Bla bla bla
+Full stack portfolio
